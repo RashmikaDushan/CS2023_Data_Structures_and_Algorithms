@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/rashmikadushan/GitHub/CS2023_Data_Structures_and_Algorithms/Week 09" -B "/Users/rashmikadushan/GitHub/CS2023_Data_Structures_and_Algorithms/Week 09/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/rashmikadushan/GitHub/CS2023_Data_Structures_and_Algorithms/Week 09/cmake-build-debug

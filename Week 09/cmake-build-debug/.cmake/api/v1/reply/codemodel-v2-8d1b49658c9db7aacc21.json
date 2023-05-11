@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Week_09",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Hashtable_basics::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Hashtable_basics-Debug-880075833163e6e38de8.json",
+					"name" : "Hashtable_basics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Hashtable_with_chaining::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Hashtable_with_chaining-Debug-c6c190ccf014938766e1.json",
+					"name" : "Hashtable_with_chaining",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Week_09::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week_09-Debug-64d56ac8d1773449696f.json",
+					"name" : "Week_09",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/rashmikadushan/GitHub/CS2023_Data_Structures_and_Algorithms/Week 09/cmake-build-debug",
+		"source" : "/Users/rashmikadushan/GitHub/CS2023_Data_Structures_and_Algorithms/Week 09"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
